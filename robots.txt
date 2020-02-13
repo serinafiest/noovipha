@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohxurathoo.bytemotiv.com/sitemap.xml
